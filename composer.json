@@ -1,7 +1,8 @@
 {
     "name": "nimeshc64/ideamart_ussd_libs",
     "description": "Ideamart PHP libs",
+	"minimum-stability": "stable",
     "require": {
-        "php": ">=4.0.0"
+         "php": ">=5.3.*"
     }
 }
