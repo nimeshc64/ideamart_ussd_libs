@@ -1,13 +1,7 @@
 {
     "name": "nimeshc64/ideamart_ussd_libs",
-    "description": "Ideamart PHP Libs",
-    "keywords": ["IdeaPro", "pro", "Ideamart"],
-    "type": "package",
-    "license": "hSenid International (pvt) Limited",
-    "minimum-stability": "stable",
-    "homepage": "https://github.com/nimeshc64/ideamart_ussd_libs.git",
+    "description": "Ideamart PHP libs",
     "require": {
-        "christian-riesen/base32": "~1.3.0"
-		 "php": ">=4.*"
+        "php": ">=4.0.0"
     }
 }
