@@ -1,0 +1,20 @@
+
+{
+    "name": "nimesh/ideamart_ussd_libs",
+    "description": "ideamart php ussd libs",
+    "authors": [
+        {
+            "name": "nimesh",
+            "email": "nimeshc64@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
