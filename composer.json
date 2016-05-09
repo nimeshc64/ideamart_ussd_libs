@@ -3,15 +3,17 @@
   "description": "Ideamart PHP libs",
   "homepage": "https://github.com/nimeshc64/ideamart_ussd_libs",
   "license": "hSenid International (pvt) Limited",
+  "authors": [
+    {
+      "name": "hSenid International (pvt) Limited",
+      "email": "hSenid@mail.com",
+      "homepage": "https://github.com/nimeshc64/ideamart_ussd_libs"
+    }
+  ],
   "require": {
     "php": ">=5.3"
   },
-  "require-dev": {
-    "phpunit/phpunit": "^4.1",
-    "phpunit/dbunit": "^1.3"
-  },
   "autoload": {
-    "classmap": ["src/"]
-  },
-   "minimum-stability": "dev"
+    "ideaM": ["src/"]
+  }
 }
