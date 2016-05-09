@@ -6,16 +6,12 @@
   "authors": [
     {
       "name": "hSenid International (pvt) Limited",
-      "email": "hSenid International (pvt) Limited",
-      "homepage": "hSenid International (pvt) Limited"
+      "email": "hSenid@mail.com",
+      "homepage": "https://github.com/nimeshc64/ideamart_ussd_libs"
     }
   ],
   "require": {
-    "php": ">=5.3",
-  },
-  "require-dev": {
-    "phpunit/phpunit": "^4.1",
-    "phpunit/dbunit": "^1.3"
+    "php": ">=5.3"
   },
   "autoload": {
     "ideaM": ["src/"]
